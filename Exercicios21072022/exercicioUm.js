@@ -7,6 +7,7 @@ function addId(array){
     }
 }
 addId(products);
+console.log(products)
 
 function printName(array){
     for(i = 0; i < array.length; i++){
